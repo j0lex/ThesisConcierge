@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThesisConcierge</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="rate_my_service">Rate my service</string>
+    <string name="please_rate_the_service">Please rate the service</string>
+</resources>
