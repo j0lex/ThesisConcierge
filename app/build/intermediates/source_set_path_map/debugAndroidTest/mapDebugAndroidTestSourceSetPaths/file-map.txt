@@ -1,0 +1,6 @@
+com.example.thesisconcierge.test.app-tracing-1.2.0-0 C:\Users\ionit\.gradle\caches\8.10.2\transforms\49f1d6eb26dbc07e8db637ed696253ea\transformed\tracing-1.2.0\res
+com.example.thesisconcierge.test.app-core-1.6.1-1 C:\Users\ionit\.gradle\caches\8.10.2\transforms\cc9b1211603335ddfc8f7c1f83b114a2\transformed\core-1.6.1\res
+com.example.thesisconcierge.test.app-androidTest-2 C:\Users\ionit\AndroidStudioProjects\ThesisConcierge\app\build\generated\res\resValues\androidTest\debug
+com.example.thesisconcierge.test.app-mergeDebugAndroidTestResources-3 C:\Users\ionit\AndroidStudioProjects\ThesisConcierge\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.thesisconcierge.test.app-mergeDebugAndroidTestResources-4 C:\Users\ionit\AndroidStudioProjects\ThesisConcierge\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.thesisconcierge.test.app-debugAndroidTest-5 C:\Users\ionit\AndroidStudioProjects\ThesisConcierge\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
